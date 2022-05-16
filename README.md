@@ -19,4 +19,4 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="https://www.linkedin.com/in/ammar-doo-7ba930225/"/></svg>
+<code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>

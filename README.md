@@ -18,3 +18,6 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 <code><img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+

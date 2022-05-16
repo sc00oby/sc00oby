@@ -26,4 +26,4 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 
 <code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
-<code><img height="22" src="https://www.iconspng.com/images/red-phone-icon.jpg"></code>424.526.6883
+<code><img height="22" src="https://www.iconspng.com/uploads/red-phone-icon.png"></code>424.526.6883

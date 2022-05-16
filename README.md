@@ -7,10 +7,11 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 ## Languages and Tools:
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
+<code><img height="20" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/redux.svg"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/jest.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/express.svg"></code>

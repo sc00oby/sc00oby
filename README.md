@@ -17,15 +17,15 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 <code><img height="22" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <code><img height="22" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
 
-<code><img height="22" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
 <code><img height="22" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="22" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
+<code><img height="22" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
 <code><img height="22" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
 
 ## Contact: 
 
-<code><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>doo.ammar@gmail.com
+<code><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code> doo.ammar@gmail.com
 
-<code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+<code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> linkedin.com/in/ammar-doo-7ba930225/
 
-<code><img height="22" src="https://pngimg.com/uploads/phone/phone_PNG48996.png"></code>424.526.6883
+<code><img height="22" src="https://pngimg.com/uploads/phone/phone_PNG48996.png"></code> 424.526.6883

@@ -19,4 +19,8 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 
+## Contact: 
+
+<a href="https://github.com/buuing"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="160" /></a>
+
 <code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>

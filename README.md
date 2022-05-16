@@ -22,7 +22,7 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 
 ## Contact: 
 
-<code><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>doo.ammar@gmail.com
+<code><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>doo.ammar@gmail.com          
 <code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"></code>424-526-6883
+<code><img height="22" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"></code>424.526.6883

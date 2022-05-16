@@ -6,7 +6,7 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 
 ## Languages and Tools:
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
@@ -20,5 +20,7 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 
 ## Contact: 
+
+<code><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code> : doo.ammar@gmail.com
 
 <code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>

@@ -26,6 +26,6 @@ My name is Ammar Doo, I am passionate about problem solving and building things.
 
 <code><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code> doo.ammar@gmail.com
 
-<code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> linkedin.com/in/ammar-doo-7ba930225/
+<code><a href="https://www.linkedin.com/in/ammar-doo/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> linkedin.com/in/ammar-doo/
 
 <code><img height="22" src="https://pngimg.com/uploads/phone/phone_PNG48996.png"></code> 424.526.6883
